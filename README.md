@@ -60,6 +60,8 @@ The LSTM model achieves a high classification accuracy (~99.65%), demonstrating 
 - Multi-channel EMG data integration
 - Exploring attention mechanisms for enhanced performance
 - Application of the model in real-time wearable monitoring systems
+📄 **Research Paper (related work):**  
+  [Muscle Fatigue Detection using Wearable EMG Data and Long Short-Term Memory Networks](<https://ieeexplore.ieee.org/document/11212430>)
 
 ## References
 This project is inspired by recent research in muscle fatigue detection, including the IEEE paper _"Muscle Fatigue Detection Using Wearable EMG Data and Long Short-Term Memory Networks."_
